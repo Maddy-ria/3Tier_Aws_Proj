@@ -1,6 +1,6 @@
 customhost = "prohect-rds.c8i6wdj3kp35.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
-customdb = "prohect-rds"
+customdb = "maddy"
 custombucket = "projbucketmadhav"
 customregion = "us-east-1"

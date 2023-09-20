@@ -1,4 +1,4 @@
-customhost = "prohect-rds.c8i6wdj3kp35.us-east-1.rds.amazonaws.com"
+customhost = "Appload-895107980.us-east-1.elb.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
 customdb = "maddy"

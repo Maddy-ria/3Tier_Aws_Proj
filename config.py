@@ -1,4 +1,4 @@
-customhost = "Appload-895107980.us-east-1.elb.amazonaws.com"
+customhost = "ALB-1332433413.us-east-1.elb.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
 customdb = "maddy"
